@@ -1,0 +1,6 @@
+{
+  "name": "A Little Sorry, Punyabrita",
+  "description": "A small mistake, a genuine apology, and a little extra affection. A personalized romantic and playful apology experience for Punyabrita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
